@@ -45,6 +45,13 @@ it ports to real instruction-tuned / safety-trained models at larger scale.
 
 writeup coming in `quantization_lens.md`.
 
+step one is here - learning the training/quantization pipeline hands-on
+with parameter-golf. small model, tight constraints, fast iterations.
+step two is running the actual alignment degradation experiments on a
+safety-tuned model (gemma, llama-instruct) where refusal behavior actually
+exists to measure. need to know how quantization works mechanically
+so I can study what it breaks.
+
 ---
 
 caveat: not locked in. the field is huge:
