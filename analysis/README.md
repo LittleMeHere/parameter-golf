@@ -10,11 +10,11 @@ mostly for me. but if you ended up here, hi!
 
 start somewhere:
 - [why I'm here](notes/00_why_im_here.md)
-- quantization as an alignment lens (soon)
+- [quantization as a feature-stability lens](quantization_lens.md) - the centerpiece question
+- [ROADMAP](ROADMAP.md) - what's built, what's coming
 - techniques in param-golf (soon)
 - papers (soon)
 - open questions (soon)
-- ROADMAP (soon)
 
 ---
 
