@@ -32,11 +32,16 @@ mech interp = closest thing to writing the manual.
 
 ---
 
-starting with: quantization as an alignment lens.
+starting with: quantization as a feature-stability lens.
+*alignment-adjacent now, alignment-direct if this methodology scales.*
 
-as small LMs get crushed (int8 → int6 → ternary, maybe binary), what
-behaviors degrade first? if refusal-of-harmful-prompts dies before factual
-recall, that's a flag worth raising BEFORE someone ships a worse-aligned model.
+as small LMs get crushed (int8 → int6 → ternary), what learned structure
+dies first? is the order predictable from fp32 metrics? stable across
+compression methods, or method-dependent?
+
+dry run on the param-golf base model - no RLHF there, so no refusal behavior
+to measure directly. methodology is the point. once it works on a base model
+it ports to real instruction-tuned / safety-trained models at larger scale.
 
 writeup coming in `quantization_lens.md`.
 
