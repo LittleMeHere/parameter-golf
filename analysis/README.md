@@ -20,7 +20,7 @@ start somewhere:
 
 if you want to talk - collaborate, ideas, corrections, "hey I noticed X
 in your notes" - [open an issue](https://github.com/littlemehere/parameter-golf/issues).
-please be a person about it. (or an AI with actual judgment ;)
+please be a person about it. (or an AI with good judgment ;)
 
 ---
 
