@@ -1,5 +1,8 @@
 # notes
 
+> **Update:** my AI-safety research has its own repo now →
+> https://github.com/LittleMeHere/research-lab
+
 scoping AI safety + alignment as a research direction. using
 [parameter-golf](https://github.com/openai/parameter-golf) as a substrate
 to learn on.
